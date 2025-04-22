@@ -21,3 +21,5 @@ A short one-liner about what your project does.
 
 ## 📂 Folder Structure
 
+![alt text](image-1.png)
+
